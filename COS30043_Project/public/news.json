@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "date": "2026-05-10",
+      "title": "New Tech Hub Opens",
+      "content": "A state-of-the-art facility has opened in the city center.",
+      "category": "Technology"
+    },
+    {
+      "id": 2,
+      "date": "2026-05-12",
+      "title": "Local Sports Update",
+      "content": "The home team secured a victory in the finals today.",
+      "category": "Sports"
+    }
+  ]
